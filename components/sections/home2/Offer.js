@@ -11,7 +11,7 @@ export default function Offer() {
                     <div className="col-lg-6">
                       <div className="p_relative">
                         <div className="offer-1-shape-1"><img src="assets/images/shape/pattern-1.png" alt="" /></div>
-                        <div className="offer-1-image hvr-img-zoom-1 mb_30"><img src="assets/images/resource/feature-image-4.jpg" alt="" /></div>
+                        <div className="offer-1-image hvr-img-zoom-1 mb_30"><img src="assets/images/resource/welcome1.jpeg" alt="" /></div>
                       </div>
                     </div>
                     <div className="col-lg-5 offset-lg-1">
@@ -30,7 +30,7 @@ export default function Offer() {
                     <div className="col-lg-8 order-lg-2">
                       <div className="p_relative">
                         <div className="offer-1-shape-2"><img src="assets/images/shape/pattern-1.png" alt="" /></div>
-                        <div className="offer-1-image text-lg-end  hvr-img-zoom-1 mb_30"><img src="assets/images/resource/feature-image-5.jpg" alt="" /></div>
+                        <div className="offer-1-image text-lg-end  hvr-img-zoom-1 mb_30"><img src="assets/images/resource/feature.jpeg" alt="" /></div>
                       </div>
                     </div>
                     <div className="col-lg-4">

@@ -23,8 +23,8 @@ export default function About() {
                     <div className="col-lg-6 ps-lg-5">
                         <div className="about-2-image-wrap mb_30 p_relative">
                         <div className="about-2-shape-1"><img src="assets/images/shape/pattern-1.png" alt="" /></div>
-                        <div className="about-2-image-1" data-parallax='{"y": -20}'><img src="assets/images/resource/about-2.jpg" alt="" /></div>
-                        <div className="about-2-image-2" data-parallax='{"y": 20}'><img src="assets/images/resource/about-3.jpg" alt="" /></div>
+                        <div className="about-2-image-1" data-parallax='{"y": -20}'><img src="assets/images/resource/sideEntrance1.jpg" alt="" /></div>
+                        <div className="about-2-image-2" data-parallax='{"y": 20}'><img src="assets/images/resource/sideEntrance2.jpg" alt="" /></div>
                         <div className="about-2-video-area">
                             <div className="about-2-video-btn">
                                 <div className="video-btn">

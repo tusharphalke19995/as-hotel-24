@@ -47,8 +47,8 @@ export default function Home() {
                     <div className="col-lg-6 ps-lg-5">
                         <div className="about-2-image-wrap mb_30 p_relative">
                         <div className="about-2-shape-1"><img src="assets/images/shape/pattern-1.png" alt="" /></div>
-                        <div className="about-2-image-1" data-parallax='{"y": -20}'><img src="assets/images/resource/about-2.jpg" alt="" /></div>
-                        <div className="about-2-image-2" data-parallax='{"y": 20}'><img src="assets/images/resource/about-3.jpg" alt="" /></div>
+                        <div className="about-2-image-1" data-parallax='{"y": -20}'><img src="assets/images/resource/sideEntrance1.jpg" alt="" /></div>
+                        <div className="about-2-image-2" data-parallax='{"y": 20}'><img src="assets/images/resource/sideEntrance2.jpg" alt="" /></div>
                         <div className="about-2-video-area">
                             <div className="about-2-video-btn">
                             <div className="video-btn">
@@ -109,7 +109,7 @@ export default function Home() {
                 </section>
 
             <section className="video-2-section">
-                <div className="video-1-bg" style={{ backgroundImage: "url(assets/images/background/video-1.jpg)" }} data-parallax='{"y": 50}'></div>
+                <div className="video-1-bg" style={{ backgroundImage: "url(assets/images/background/abouthotel.jpeg)" }} data-parallax='{"y": 50}'></div>
                 <div className="auto-container">
                     <div className="video-1-video-btn">
                         <div className="video-btn">
@@ -336,7 +336,7 @@ export default function Home() {
                     <div className="row">
                     <div className="col-lg-4 col-md-6">
                         <div className="feature-2-block wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-1.jpg" alt="" /></div>
+                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image.jpeg" alt="" /></div>
                         <div className="feature-2-lower-content">
                             <div className="feature-2-offer w_80 h_80 theme-bg p_absolute r_40 t_0 fs_18 text-center text-light pt_20 b_radius_50 lh_20"><span className="fs_22 fw_medium">15%</span><br /> OFF</div>
                             <h4 className="feature-2-title mb_20">Kick off Summer <br /> in NYC</h4>
@@ -346,7 +346,7 @@ export default function Home() {
                     </div>
                     <div className="col-lg-4 col-md-6">
                         <div className="feature-2-block wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpg" alt="" /></div>
+                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpeg" alt="" /></div>
                         <div className="feature-2-lower-content">
                             <div className="feature-2-offer w_80 h_80 theme-bg p_absolute r_40 t_0 fs_18 text-center text-light pt_20 b_radius_50 lh_20"><span className="fs_22 fw_medium">15%</span><br /> OFF</div>
                             <h4 className="feature-2-title mb_20">Free Breakfast <br /> Packages</h4>
@@ -356,7 +356,7 @@ export default function Home() {
                     </div>
                     <div className="col-lg-4 col-md-6">
                         <div className="feature-2-block wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpg" alt="" /></div>
+                        <div className="feature-2-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpeg" alt="" /></div>
                         <div className="feature-2-lower-content">
                             <div className="feature-2-offer w_80 h_80 theme-bg p_absolute r_40 t_0 fs_18 text-center text-light pt_20 b_radius_50 lh_20"><span className="fs_22 fw_medium">15%</span><br /> OFF</div>
                             <h4 className="feature-2-title mb_20">The Signature <br /> Collection</h4>

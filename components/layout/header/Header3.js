@@ -10,23 +10,24 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
         <div className="header-top-1-row d-flex align-items-center justify-content-between">
           <div className="header-top-1-left-column">
             <ul className="header-top-1-contact-info d-flex align-items-center">
-              <li><a href="mailto:info@example.com">info@example.com</a></li>
-              <li><a href="tel:+91-213-666-0027">+91-213-666-0027</a></li>
+              <li><a href="mailto:dhananjayphalke7058@gmail.com">dhananjayphalke7058@gmail.com</a></li>
+              <li><a href="tel:+91-213-666-0027">+91-9130373375</a></li>
             </ul>
           </div>
           <div className="header-top-1-right-column d-flex align-items-center">
             <div className="language-switcher">
               <select>
-                <option data-display="EN">EN</option>
-                <option value={1}>BN</option>
-                <option value={2}>FR</option>
-                <option value={3}>CH</option>
+                <option data-display="EN">English</option>
+                <option value={1}>Hindi</option>
+                <option value={2}>Marathi</option>
+                
               </select>
             </div>
             <ul className="header-top-1-social-icon d-flex align-items-center">
-              <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
-              <li><a href="/"><i className="fab fa-twitter"></i></a></li>
-              <li><a href="/"><i className="fab fa-linkedin-in"></i></a></li>
+            <li><Link href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></Link></li>
+                  <li><Link href="https://twitter.com/?lang=en"><i className="fab fa-twitter"></i></Link></li>
+                  <li><Link href="https://bd.linkedin.com/"><i className="fab fa-linkedin-in"></i></Link></li>
+                  <li><Link href="https://www.instagram.com/hotel_ashirwad_ghodegaon/"><i className="fab fa-instagram"></i></Link></li>
             </ul>
           </div>
         </div>

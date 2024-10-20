@@ -15,7 +15,7 @@ export default function Features() {
         <div className="row">
           <div className="col-lg-4 col-md-6">
             <div className="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-1.jpg" alt="" /></div>
+              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image.jpeg" alt="" /></div>
               <h4 className="feature-1-title">Kick off Summer <br /> in NYC</h4>
               <p className="feature-1-text">Amet minim mollit no duis sit enim <br /> aliqua dolor do amet officia.</p>
               <div className="feature-1-link"><Link className="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary" href="/service-details"><i className="icon-5"></i></Link></div>
@@ -23,7 +23,7 @@ export default function Features() {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpg" alt="" /></div>
+              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-2.jpeg" alt="" /></div>
               <h4 className="feature-1-title">Free Breakfast <br /> Packages</h4>
               <p className="feature-1-text">Amet minim mollit no duis sit enim <br /> aliqua dolor do amet officia.</p>
               <div className="feature-1-link"><Link className="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary" href="/service-details"><i className="icon-5"></i></Link></div>
@@ -31,7 +31,7 @@ export default function Features() {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="feature-1-block text-center wow fadeInLeft" data-wow-delay=".2s" data-wow-duration=".8s">
-              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpg" alt="" /></div>
+              <div className="feature-1-image hvr-img-zoom-1"><img src="assets/images/resource/feature-image-3.jpeg" alt="" /></div>
               <h4 className="feature-1-title">The Signature <br /> Collection</h4>
               <p className="feature-1-text">Amet minim mollit no duis sit enim <br /> aliqua dolor do amet officia.</p>
               <div className="feature-1-link"><Link className="feature-1-link-btn hvr-zoom-1 hvr-zoom-1-primary" href="/service-details"><i className="icon-5"></i></Link></div>

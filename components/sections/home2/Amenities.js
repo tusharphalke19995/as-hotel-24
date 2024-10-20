@@ -5,7 +5,7 @@ export default function Amenities() {
         <>
      
      <section className="section-padding dark-bg">
-      <div className="p_absolute l_0 b_0 r_0 t_0" style={{ background: 'url(assets/images/shape/pattern-3.png) no-repeat center bottom' }}></div>
+      <div className="p_absolute l_0 b_0 r_0 t_0" style={{ background: 'url(assets/images/shape/pattern-3.png ) no-repeat center bottom' }}></div>
       <div className="auto-container">
         <div className="team-1-wrapper">
           <div className="section_heading text-center mb_50">

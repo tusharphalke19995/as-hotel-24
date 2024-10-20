@@ -7,12 +7,12 @@ export default function Menu() {
     return (
         <>
             <ul className="navigation clearfix">
-                <li className="dropdown"><Link href="/">Home</Link>
-                    <ul>
+                <li> <Link href="/index-2">Home</Link>
+                    {/* <ul>
                         <li><Link href="/">Home Page 01</Link></li>
                         <li><Link href="/index-2">Home Page 02</Link></li>
                         <li><Link href="/index-3">Home Page 03</Link></li>
-                    </ul>
+                    </ul> */}
                 </li>
                 <li className="dropdown"><Link href="#">About</Link>
                     <ul>
